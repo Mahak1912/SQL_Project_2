@@ -1,4 +1,4 @@
-# Indian General Election Data Analsis using SQL
+# SQL Project
 # Indian General Elections Result Analysis 2024
 
 This repository contains the analysis of the 2024 Indian General Election results using SQL queries. The focus of this analysis is to provide insights into the election results, including seat allocation, party performance, voting trends, and more.
